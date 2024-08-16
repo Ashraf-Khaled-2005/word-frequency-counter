@@ -1,0 +1,4 @@
+<RCC>
+    <qresource prefix="word_frequency_counter">
+    </qresource>
+</RCC>
