@@ -53,6 +53,6 @@ The Word Frequency Counter is an application designed to analyze and count the f
    - The application saves global word frequencies for future sessions.
 
 ## Demo Video
-[Demo Video] (https://drive.google.com/file/d/1owNnb_Cn7zANS9RyqC1gKWTlb5BiXP-u/view?usp=sharing)
+[Demo Video](https://drive.google.com/file/d/1owNnb_Cn7zANS9RyqC1gKWTlb5BiXP-u/view?usp=sharing)
 ## Installation and Setup
 Ensure CMake and Qt are installed on your system and run the `word_frequency.exe` file.
